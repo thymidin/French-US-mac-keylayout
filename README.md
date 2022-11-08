@@ -1,5 +1,5 @@
 # French-US-mac-keylayout
-Custom keyboard layout for typing French and other european languages on an US keyboard (ANSI). Adapted from Manjaro's "French (US)" xkb keyboard layout with some minor changes.
+Custom keyboard layout for typing in French and other european languages on an US keyboard (ANSI). Based on Manjaro's "French (US)" xkb keyboard layout with some minor changes.
 
 ---
 
